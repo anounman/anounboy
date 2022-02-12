@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @anounboy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--insta id :@i.m.j_o_y
--twitter @anounman
--email ankush.pentester@gmail.com
+- insta id :@i.m.j_o_y
+- twitter @anounman
+- email ankush.pentester@gmail.com
 
 
 - Flutter
